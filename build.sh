@@ -25,7 +25,7 @@ COIN_NAME="lithium"
 COIN_NAME_UPPER="Lithium"
 DAEMON_NAME="lithiumd"
 QT_NAME="lithium-qt"
-REPO_URL="https://github.com/SidGrip/lithium.git"
+REPO_URL="https://github.com/BlueDragon747/lithium.git"
 REPO_BRANCH="master"
 
 # Network ports and config

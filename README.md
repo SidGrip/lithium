@@ -26,7 +26,7 @@ Lithium is based on Photon. The first 1,999 blocks awarded a reduced amount to b
 ## Quick Start (Ubuntu 18.04)
 
 ```bash
-git clone https://github.com/SidGrip/lithium.git
+git clone https://github.com/BlueDragon747/lithium.git
 cd lithium
 sudo add-apt-repository ppa:bitcoin/bitcoin
 sudo apt update
@@ -69,7 +69,7 @@ Other options:
 ## Platform Build Instructions
 
 ```bash
-git clone https://github.com/SidGrip/lithium.git
+git clone https://github.com/BlueDragon747/lithium.git
 cd lithium
 ```
 
